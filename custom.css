@@ -1,0 +1,48 @@
+.navigation{
+	display: inline-block;
+	text-align: center;
+	white-space: pre;
+	padding-right: 40px;
+}
+h1{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+#nav{
+	text-align: center;
+}
+img{
+	vertical-align: middle;
+}
+.img-responsive.about{
+	border-style:outset;
+	border-width: 3px;
+	border-color: black;
+	margin-right:auto;
+	margin-left: auto;
+
+}
+.line{
+	margin-top: 5px;
+	border-bottom: solid 1px red;
+}
+h3{
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+h2{
+	text-align: center;
+}
+.carousel-inner{
+	margin-top: 25%;
+}
+
+#recruit{
+	margin-top: 25%;
+	margin-left: 25%;
+}
+.icons{
+	display: inline-block;
+}
