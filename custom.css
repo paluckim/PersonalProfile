@@ -7,6 +7,7 @@
 h1{
 	text-align: center;
 	text-transform: uppercase;
+	color: #28231F;
 }
 
 #nav{
@@ -24,28 +25,49 @@ img{
 
 }
 .line{
-	margin-top: 5px;
-	border-bottom: solid 1px red;
+	height: 5px;
+	width: 100%;
+	background-color: #CA2515;
 }
 h3{
 	text-align: center;
 	text-transform: uppercase;
 	text-decoration: underline;
+	color: #28231F;
 }
 h2{
 	text-align: center;
+	color: #28231F;
 }
 .carousel-inner{
 	margin-top: 25%;
 }
 
 #recruit{
+	background-color: #54767D;
 	margin-top: 25%;
 	margin-left: 25%;
+
 }
 .icons{
 	display: inline-block;
 }
 .workpara{
 	margin-top: 25%;
+}
+#linked{
+	height:57px;
+	width: 57px;
+}
+body{
+	background-color: #E3D6C4;
+}
+p,li{
+	color: #3F3C3A;
+}
+.resume{
+	color: white;
+}
+#butts{
+	background-color: #54767D;
 }
